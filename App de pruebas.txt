@@ -1,3 +1,5 @@
 https://github.com/Bernardo-MG/java-patterns
 https://github.com/TNG/ArchUnit.git
 https://github.com/spring-projects/greenhouse.git
+(Tesis de Roddy)
+https://github.com/racorrea/tfg_pft_restfull/tree/master/src/java/ec/edu/utpl/rest
